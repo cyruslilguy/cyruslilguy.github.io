@@ -1,0 +1,12 @@
+body {
+    font-family: Helvetica;
+    background-color: #000000;
+    color: #ffffff;
+}
+button {
+  background-color: #000000;
+  color: #ff0000;
+}
+hr {
+  color: #ff0000;
+}
